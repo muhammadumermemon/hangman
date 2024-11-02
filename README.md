@@ -17,6 +17,15 @@ This Hangman game is a fun and interactive Python script where players guess let
 ## Requirements
 
 - Python 3.x
+- Contributing
+Feel free to submit issues or pull requests if you have any suggestions or improvements.**
+
+## Acknowledgments
+- Inspired by the classic Hangman game.
+- Thanks to the Python community for their support and resources.
+
+This should cover everything you need for your `README.md` file. Let me know if there's anything else you need help with!
+
 
 ## Installation
 
