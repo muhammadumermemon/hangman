@@ -31,7 +31,7 @@ This should cover everything you need for your `README.md` file. Let me know if 
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/hangman-game.git
+    https://github.com/muhammadumermemon/hangman.git
     ```
 
 2. **Navigate to the project directory:**
